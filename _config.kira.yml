@@ -116,7 +116,7 @@ giscus:
     lang: en
 
 copyright: '<strong>版权声明：</strong>本文采用 <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/cn/deed.zh" target="_blank">CC BY-NC-SA 3.0 CN</a> 协议进行许可'
-copyTip: "著作权归作者所有。\n商业转载请联系作者获得授权，非商业转载请注明出处。\n来源：%url" # 自定义复制版权文案,使用 %url 代替当前页面URL, 修改为false禁用
+copyTip: false # "著作权归作者所有。\n商业转载请联系作者获得授权，非商业转载请注明出处。\n来源：%url" # 自定义复制版权文案,使用 %url 代替当前页面URL, 修改为false禁用
 
 # 自定义侧边栏尾部内容
 sidebar: ''
@@ -131,13 +131,14 @@ friends:
     - avatar: https://kimcos.zyglq.cn/img/2023/08/05/10-29-31-cd1976efb2eca70a68f5b3283bea1c08.jpg
       link: https://kimmyxyc.top
       name: KimmyXYC's Blog
+
     - avatar: https://zhmoegirl.com/favicon.ico
       link: https://zhmoegirl.com/
       name: InternetBugs的个人小站
+
     - avatar: https://r2.chitang.dev/images/avatar.webp
       link: https://blog.chitang.dev/
       name: 池塘的博客
-
 
 
 # 可复制的代码块
